@@ -22,6 +22,12 @@ header {
   text-shadow: 1px 1px #ccc;
 }
 
+a {
+  text-decoration: none;
+  color: rgb(46, 200, 6);
+  font-weight: bold;
+}
+
 .map-container {
   width:800px;
   margin: 0 auto;
@@ -82,3 +88,4 @@ footer span {
   color: #f16059;
   padding: 0 5px;
 }
+
