@@ -4,3 +4,4 @@ As you hover over each state, the color changes to indicate the winner of that s
 
 This project taught me more about how to use variables, objects, properties, functions, factory functions, methods, arrays, if/else, DOM, JS Bin, trouble shooting and the Console. 
 
+Live site: https://coryrunn.github.io/election-map-js/
